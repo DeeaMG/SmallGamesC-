@@ -1,8 +1,5 @@
 #pragma once
 
-#include <random>
-#include <ctime>
-
 class CowsAndBulls
 {
 public:

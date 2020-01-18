@@ -1,6 +1,5 @@
 ﻿#include "pch.h"
 #include "CowsAndBullsGame.h"
-#include <iostream>
 
 CowsAndBulls::CowsAndBulls()
 {

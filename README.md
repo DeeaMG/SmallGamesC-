@@ -2,4 +2,4 @@
 **_Here are some mini games I've made:_**
 
  - Hangman
- - Cows and Bulls(In progress)
+ - Cows and Bulls

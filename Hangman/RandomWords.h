@@ -3,9 +3,7 @@ class RandomWords
 {
 public:
 	RandomWords();
-	~RandomWords();
-	
 	std::vector <std::string> WordList;
-	std::string RandomWord();
+	std::string RandomWord();	
+	~RandomWords();
 };
-

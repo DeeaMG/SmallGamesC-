@@ -5,7 +5,6 @@
 int main()
 {
 	std::string getAnswer = "yes";
-
 	while (getAnswer == "yes")
 	{
 		HangmanGame game;
@@ -13,7 +12,6 @@ int main()
 
 		std::cout << "Do you want to play again? ";
 		std::cin >> getAnswer;
-		
 		std::cout << std::endl;
 	}
 	std::cout << "Thank you for playing!" << std::endl;
